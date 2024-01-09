@@ -51,7 +51,7 @@
    &kp ESC         &kp T     &kp Q     &kp W      &kp E   &kp R              &kp TAB                                                                 &none   &kp Y   &kp KP_N7     &kp KP_N8      &kp KP_N9     &kp KP_MINUS   &kp BSLH
    &kp TAB         &kp G     &kp A     &kp S      &kp D   &kp F                &none  &kp LCTRL  &kp LALT                   &kp LGUI  &kp RCTRL      &none   &kp H   &kp KP_N4     &kp KP_N5      &kp KP_N6      &kp KP_PLUS    &kp SQT
  &kp LSHFT         &kp B     &kp Z     &kp X      &kp C   &kp V                                     &mo 3                  &kp PG_UP                         &kp N   &kp KP_N1     &kp KP_N2      &kp KP_N3     &kp KP_ENTER  &kp RSHFT
- &kp LCTRL  &kp LEFT_ALT  &kp CAPS  &kp LEFT  &kp RIGHT                    &kp SPACE    &kp DEL     &mo 4                  &kp PG_DN  &kp ENTER  &kp KP_N0              &kp UP      &kp DOWN     &kp KP_DOT         &kp RBKT      &mo 2
+ &kp LCTRL  &kp LEFT_ALT  &kp CAPS  &kp LEFT  &kp RIGHT                    &kp SPACE  &kp ENTER     &mo 4                  &kp PG_DN  &kp ENTER  &kp KP_N0              &kp UP      &kp DOWN     &kp KP_DOT         &kp RBKT      &mo 2
             >;
         };
 
